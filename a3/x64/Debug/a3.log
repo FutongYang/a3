@@ -1,0 +1,8 @@
+﻿  DeadlockFuzzer.cpp
+C:\Users\Lv\source\repos\a3\a3\DeadlockFuzzer.cpp(26,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  main.cpp
+  a3.vcxproj -> C:\Users\Lv\source\repos\a3\x64\Debug\a3.exe
